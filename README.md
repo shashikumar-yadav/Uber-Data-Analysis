@@ -59,7 +59,7 @@ Could point to a single trigger
 
 📉 Seaborn        =  A smarter, prettier chart tool
 
-##Screenshots
+## Screenshots
 <img width="602" height="373" alt="Picture1" src="https://github.com/user-attachments/assets/c76bfe5f-5295-4007-a2a8-f0f944338047" />
 
 <img width="602" height="681" alt="Picture2" src="https://github.com/user-attachments/assets/56fac420-e03c-489d-bf03-d0e20e5a017f" />
