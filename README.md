@@ -59,8 +59,19 @@ Could point to a single trigger
 
 📉 Seaborn        =  A smarter, prettier chart tool
 
+##Screenshots
+<img width="602" height="373" alt="Picture1" src="https://github.com/user-attachments/assets/c76bfe5f-5295-4007-a2a8-f0f944338047" />
+
+<img width="602" height="681" alt="Picture2" src="https://github.com/user-attachments/assets/56fac420-e03c-489d-bf03-d0e20e5a017f" />
+
+<img width="602" height="275" alt="Picture3" src="https://github.com/user-attachments/assets/ccddc51b-40aa-4a35-8b9d-a2620c423aeb" />
+
+<img width="602" height="381" alt="Picture4" src="https://github.com/user-attachments/assets/d8749280-6acb-4080-95a5-9960adaf7935" />
+
+<img width="602" height="275" alt="Picture5" src="https://github.com/user-attachments/assets/e20d0862-f0f4-497e-aa07-a7a95829f6d7" />
+
 ## Authors
 
 - Shashikumar Yadav
-- Senior Consultant 
+- Senior IT Consultant 
 
